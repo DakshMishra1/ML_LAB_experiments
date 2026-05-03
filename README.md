@@ -134,7 +134,7 @@ ML-experiments/
 
 ## Author
 
-Piyush Jimiwal
+Daksh Mishra
 
 ## License
 
