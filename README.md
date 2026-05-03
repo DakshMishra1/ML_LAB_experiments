@@ -100,23 +100,6 @@ jupyter notebook
 
 Then navigate to and open the desired experiment file.
 
-## Structure
-
-```
-ML-experiments/
-├── Exp-1 House price.ipynb
-├── Exp-3 mnist.ipynb
-├── Exp-5 Email spam.ipynb
-├── Exp-7 Breast_cancer_detection.ipynb
-├── Exp-9 Spam.ipynb
-├── Exp-10 Heart_Disease.ipynb
-├── lab2.ipynb
-├── lab4.ipynb
-├── lab6.ipynb
-├── lab8.ipynb
-└── README.md
-```
-
 ## Key Concepts Covered
 
 - **Supervised Learning**: Regression and Classification
